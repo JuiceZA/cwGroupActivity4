@@ -21,4 +21,14 @@
     font-family: cursive;
 }
 
+table, th, td {
+    border: 1px solid;
+  }
 
+#form {
+    width: 150px;
+}
+
+#links {
+    display: flex;
+}
